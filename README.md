@@ -1,4 +1,4 @@
-# The-Odin-Project
+# The-Odin-Project-01
 # Odin Recipes
 
 Odin Recipes is a simple web project to showcase your favorite recipes. The project is structured into iterations, with each iteration building on the previous one.
